@@ -1,0 +1,21 @@
+{
+    "name": "radio_node_new",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "qbit": "github:lobot-robot/qbit#8537069df04c73b8ca7a764aa9c26c718f4b9aa4"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
